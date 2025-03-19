@@ -1,0 +1,90 @@
+{
+  "high_priority": [
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "official_channels": ["Ethereum Foundation", "ETH Updates"],
+      "partner_channels": ["ETH Developers", "ETH Research"],
+      "keywords": ["ethereum", "eth", "ether", "l1"],
+      "contracts": ["0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"],
+      "tracking_reason": "Active investment and staking",
+      "investment_type": "staking",
+      "entry_date": "2025-01-01",
+      "target_events": ["ETH 2.0 upgrades", "ETH scaling solutions"]
+    },
+    {
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "official_channels": ["Arbitrum Foundation", "Arbitrum Network"],
+      "partner_channels": ["Arbitrum Ecosystem", "ARB Updates"],
+      "keywords": ["arbitrum", "arb", "l2", "rollup"],
+      "contracts": ["0x912CE59144191C1204E64559FE8253a0e49E6548"],
+      "tracking_reason": "Upcoming airdrop 2",
+      "investment_type": "holding",
+      "entry_date": "2025-02-01",
+      "target_events": ["airdrop", "governance"]
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "official_channels": ["Celestia Network", "Celestia Labs"],
+      "partner_channels": ["Celestia Ecosystem", "Modular Blockchains"],
+      "keywords": ["celestia", "tia", "modular", "data availability"],
+      "contracts": ["0x1a986a00d81e1da12c381e95ee908bbff3f6124c"],
+      "tracking_reason": "Active testnet participation",
+      "investment_type": "testnet",
+      "entry_date": "2025-01-15",
+      "target_events": ["mainnet launch", "incentivized testnet", "airdrop"]
+    }
+  ],
+  "medium_priority": [
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "official_channels": ["Solana Foundation", "Solana Labs"],
+      "partner_channels": ["Solana Ecosystem", "Solana Developers"],
+      "keywords": ["solana", "sol", "bonk"],
+      "contracts": ["So11111111111111111111111111111111111111112"],
+      "tracking_reason": "Ecosystem monitoring",
+      "investment_type": "research",
+      "entry_date": "2025-02-15",
+      "target_events": ["validator updates", "ecosystem growth"]
+    },
+    {
+      "name": "Sui Network",
+      "symbol": "SUI",
+      "official_channels": ["Sui Foundation", "Sui Network"],
+      "partner_channels": ["Sui Ecosystem", "Sui Developers"],
+      "keywords": ["sui", "mysten", "move vm"],
+      "contracts": ["0x5a198edc180f1e7736256deffcee186b1e7e79dd"],
+      "tracking_reason": "Exploring opportunities",
+      "investment_type": "research",
+      "entry_date": "2025-03-01",
+      "target_events": ["incentivized testnet", "ecosystem updates", "airdrop"]
+    },
+    {
+      "name": "Aptos",
+      "symbol": "APT",
+      "official_channels": ["Aptos Foundation", "Aptos Labs"],
+      "partner_channels": ["Aptos Ecosystem", "Aptos Developers"],
+      "keywords": ["aptos", "apt", "move lang"],
+      "contracts": ["0x1"],
+      "tracking_reason": "DeFi opportunities",
+      "investment_type": "farming",
+      "entry_date": "2025-01-20",
+      "target_events": ["liquidity mining", "incentive programs"]
+    },
+    {
+      "name": "StarkNet",
+      "symbol": "STRK",
+      "official_channels": ["StarkWare", "StarkNet Official"],
+      "partner_channels": ["StarkNet Ecosystem", "Cairo Lang"],
+      "keywords": ["starknet", "strk", "cairo", "zk rollup"],
+      "contracts": ["0x9d1cac207a0ffef85c3025c80a5f79a67d4cfd43"],
+      "tracking_reason": "Token launch anticipation",
+      "investment_type": "research",
+      "entry_date": "2025-02-10",
+      "target_events": ["token launch", "airdrop"]
+    }
+  ]
+} 

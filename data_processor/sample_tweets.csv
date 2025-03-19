@@ -1,0 +1,6 @@
+id,tweet_id,account_id,text,created_at,url,likes,retweets,replies,views,media,metadata,scrape_time
+1,123456,user1,"Join our testnet and become a validator! Earn rewards for testing.",2025-03-14 19:05:32+00,https://twitter.com/test1,100,50,20,1000,,"{""account"": ""test1""}",2025-03-15 12:08:29
+2,123457,user2,"New NFT collection dropping soon! Get whitelisted now. Limited spots available.",2025-03-14 18:05:32+00,https://twitter.com/test2,200,75,30,2000,,"{""account"": ""test2""}",2025-03-15 12:08:29
+3,123458,user3,"Stake your tokens for high yield in our DeFi protocol. APY up to 20%!",2025-03-14 17:05:32+00,https://twitter.com/test3,150,25,15,1500,,"{""account"": ""test3""}",2025-03-15 12:08:29
+4,123459,user4,"Join our DAO and participate in governance. Your voice matters!",2025-03-14 16:05:32+00,https://twitter.com/test4,300,100,50,3000,,"{""account"": ""test4""}",2025-03-15 12:08:29
+5,123460,user5,"Play our new Web3 game and earn rewards! Beta testing starts soon.",2025-03-14 15:05:32+00,https://twitter.com/test5,250,80,40,2500,,"{""account"": ""test5""}",2025-03-15 12:08:29

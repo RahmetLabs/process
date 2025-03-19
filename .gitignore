@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+.conda/
+*.egg-info/
+pip-wheel-metadata/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.mo
+*.pot
+
+# Logs and local environment files
+*.log
+*.env
+.env.*
+*.secret
+*.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# MyPy and Pytest
+.mypy_cache/
+.pytest_cache/
+
+# Docker
+*.dockerfile
+
+# Miscellaneous
+*.bak
+*.swp
+Thumbs.db
+
+# Ignore sensitive data and temporary files
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.sqlite3
+*.db

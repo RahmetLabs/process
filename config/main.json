@@ -1,0 +1,47 @@
+{
+  "database": {
+    "path": "database/cryptofarm.db",
+    "backup_dir": "database/backups",
+    "backup_frequency": "weekly"
+  },
+  "api": {
+    "host": "localhost",
+    "port": 8000,
+    "debug": true,
+    "secret_key": "YOUR_SECRET_KEY_HERE",
+    "token_expire_minutes": 10080
+  },
+  "data_collection": {
+    "concurrent_scrapers": 2,
+    "rate_limit": {
+      "twitter": 15,
+      "telegram": 20,
+      "discord": 10
+    },
+    "fetch_interval": {
+      "twitter": 15,
+      "telegram": 5,
+      "discord": 30
+    }
+  },
+  "analysis": {
+    "min_priority_score": 0.7,
+    "high_priority_threshold": 1.5,
+    "med_priority_threshold": 1.0,
+    "model_path": "models/classifier.pkl",
+    "use_llm": false,
+    "llm_provider": "openai",
+    "llm_model": "gpt-3.5-turbo"
+  },
+  "automation": {
+    "enabled": true,
+    "max_concurrent_tasks": 3,
+    "notification_channels": ["console", "telegram"],
+    "check_interval": 15
+  },
+  "workflow": {
+    "auto_discovery": true,
+    "auto_participation": false,
+    "approval_required": true
+  }
+} 

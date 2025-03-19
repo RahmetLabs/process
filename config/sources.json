@@ -1,0 +1,80 @@
+{
+  "telegram": [
+    {
+      "name": "Crypto Alpha",
+      "type": "channel",
+      "id": "crypto_alpha_channel",
+      "priority": "high"
+    },
+    {
+      "name": "Blockchain News",
+      "type": "channel",
+      "id": "blockchain_news",
+      "priority": "medium"
+    },
+    {
+      "name": "Airdrop Alerts",
+      "type": "channel",
+      "id": "airdrop_alerts",
+      "priority": "high"
+    },
+    {
+      "name": "DeFi Updates",
+      "type": "channel",
+      "id": "defi_updates",
+      "priority": "medium"
+    },
+    {
+      "name": "NFT Projects",
+      "type": "channel",
+      "id": "nft_projects",
+      "priority": "low"
+    }
+  ],
+  "twitter": [
+    {
+      "name": "Crypto Analyst",
+      "username": "@crypto_analyst",
+      "keywords": ["airdrop", "whitelist", "alpha"],
+      "priority": "high"
+    },
+    {
+      "name": "Blockchain Insider",
+      "username": "@blockchain_insider",
+      "keywords": ["launch", "token", "project"],
+      "priority": "high"
+    },
+    {
+      "name": "DeFi Expert",
+      "username": "@defi_expert",
+      "keywords": ["yield", "farming", "liquidity"],
+      "priority": "medium"
+    },
+    {
+      "name": "NFT Creator",
+      "username": "@nft_creator",
+      "keywords": ["drop", "mint", "collection"],
+      "priority": "low"
+    },
+    {
+      "name": "Web3 Developer",
+      "username": "@web3_developer",
+      "keywords": ["testnet", "mainnet", "validator"],
+      "priority": "medium"
+    }
+  ],
+  "discord": [
+    {
+      "name": "Crypto Projects",
+      "server_id": "crypto_projects_server",
+      "channels": ["announcements", "alpha"],
+      "priority": "high"
+    },
+    {
+      "name": "NFT Community",
+      "server_id": "nft_community_server",
+      "channels": ["drops", "whitelist"],
+      "priority": "medium"
+    }
+  ]
+} 
